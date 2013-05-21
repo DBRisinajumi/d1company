@@ -1,0 +1,13 @@
+{
+    "name": "dbrisinajumi/d1company",
+    "description": "Company registry",
+    "keywords": ["company","registry","yii",phundament3],
+    "type": "yii-extension",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Uldis Nelsons",
+            "email": "uldisnelsons@gmail.com"
+        }
+    ]
+}
