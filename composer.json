@@ -9,8 +9,5 @@
             "name": "Uldis Nelsons",
             "email": "uldisnelsons@gmail.com"
         }
-    ],
-     "require": {
-        "sammaye/auditrail2": "dev-master"
-    }
+    ]
 }
