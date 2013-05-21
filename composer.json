@@ -1,7 +1,7 @@
 {
     "name": "dbrisinajumi/d1company",
     "description": "Company registry",
-    "keywords": ["company","registry","yii",phundament3],
+    "keywords": ["company","registry","yii","phundament3"],
     "type": "yii-extension",
     "license": "BSD-2-Clause",
     "authors": [
@@ -9,5 +9,8 @@
             "name": "Uldis Nelsons",
             "email": "uldisnelsons@gmail.com"
         }
-    ]
+    ],
+     "require": {
+        "sammaye/auditrail2": "dev-master"
+    }
 }
